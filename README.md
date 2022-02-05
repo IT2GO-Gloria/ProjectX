@@ -7,6 +7,9 @@
 ### Technologies Used:
 * The backend is done in Java (also done in .net, see Github)  
 * The frontend is done in Angular (also done in React, see Github)
+* Docker
+* Postman
+* Sonar Cloud
 
 ### Group Github is located at: https://github.com/Client-Portal-Project
 
