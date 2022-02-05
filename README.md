@@ -5,7 +5,7 @@
  * Email: projectxrev@gmail.com
 
 ### Technologies Used:
-* The backend is done in Java (also done in , see Github)  
+* The backend is done in Java (also done in .net, see Github)  
 * The frontend is done in Angular (also done in React, see Github)
 
 ### Group Github is located at: https://github.com/Client-Portal-Project
