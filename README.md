@@ -11,5 +11,5 @@
 ### Group Github is located at: https://github.com/Client-Portal-Project
 
 ###### Note: 
-* This is an app that is handled by the associates who are waiting for a client interview to keep their skills up to date. 
+* This app is handled by the associates waiting for a client interview to keep their skills current. 
 * The list of all the engineers who had a hand in coding this app are an unlimited amount of names.
